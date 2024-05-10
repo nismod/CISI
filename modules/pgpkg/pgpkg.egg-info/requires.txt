@@ -1,4 +1,0 @@
-pygeos
-pandas
-numpy
-pyproj
