@@ -4,10 +4,12 @@ channels:
   - defaults
 dependencies:
   - python=3.11
+  - black
   - gdal
   - geopandas
   - shapely>=2
   - rasterio
+  - ruff
   - python-igraph
   - pip
   - pip:
